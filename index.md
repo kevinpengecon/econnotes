@@ -4,4 +4,8 @@ I am Kevin Peng, currently a Ph.D. student in the Department of Economics, Unive
 
 ## What's in EconNotes
 
-First and foremost, EconNotes is a work in progress that I will continually update to include new materials. 
+First and foremost, EconNotes is a work in progress that I will continually update to include new materials. My long-run goal is for the site to contain the following three levels: Basic, Intermediate, and Advanced. Regardless of the level, I will go into more details in each topic than a typical corresponding course. Each economics class generally spans from 10 to 18 weeks, depending on the educational system and academic calandar, and instructors usually face trade-offs (hint-hint) when designing the course structure and have to either relinquish a few topics or gloss over here and there. You should (eventually) find most of what you need for an economics course on this site, and much more, should you be interested in a certain topic.
+
+### Basic Economics
+
+Economics at a basic level 
