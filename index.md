@@ -8,11 +8,23 @@ First and foremost, EconNotes is a work in progress that I will continually upda
 
 ### Basic Economics
 
-Economics at a basic level is catered towards both students in high school and first-year undergraduate. We shall visit the building blocks of modern economics using the magic word "rationality". You will need a preliminary understanding of algebra and graphs to master the topics but nothing beyond that. Basic economics shall contain the following main sections:
+Economics at a basic level is catered towards both students in high school and first-year undergraduate. We shall visit the building blocks of modern economics using the magic word "rationality". You will need a preliminary understanding of algebra and graphs to master the topics but nothing beyond that. Basic economics shall contain the following sections:
 
 0. Mathematics for Basic Economics
-1. Markets and How They Work
+1. How Markets Work
 2. What Governments Do
 3. What Firms Do
 4. What Consumers Do
 5. What Happens in the Workplace
+6. How "Well" an Economy Is Doing
+7. What "Really" Happens in the Long Run
+8. How Money Works in the Long Run
+9. What Happens When Economies Interact
+10. What Happens in the Short Run
+
+
+## Sources
+
+The topics will follow a flow that most textbooks in economics generally follow. While I do not specifically follow a certain textbook for any of the segments, I am certainly biased by the ones I used when I was studying the corresponding courses. You may find the following textbooks useful for additional reading:
+
+- Basic level: 
