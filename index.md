@@ -74,17 +74,17 @@ The topics will follow a flow that most textbooks in economics generally follow.
 
 Firstly, as a Ph.D. student, I do need to place a higher priority to my real-life academics, which includes being a TA and research. This makes estimates to how fast things here go very, very very-able (pun intended with high confidence). Secondly, as my current "bubble" swirls more around microeconomics, the corresponding portions in the basic and intermediate level will likely be included before their macroeconomic counterparts. (Well that and because modern macroeconomics is considered to be micro-based, and it would be helpful if I can link back to micro stuff if they're created beforehand.) This is also the reason why I do not plan on including the advanced level of macroeconomic theory any time soon, as someone with more confidence in the topic should be in charge of that segment. Lastly, due to logistical reasons, most of Advanced Microeconomic Theory will be updated much later in the future.
 
-|Segment|Estimated Update|
-|---|---|
-|Advanced 0|September 2022|
-|Intermediate 0|December 2022|
-|Intermediate 4-6|March 2022|
-|Intermediate 1-3|June 2022|
-|Basic 0|September 2022|
-|Basic 1-5|June 2023|
-|Intermediate 7-8|September 2023|
-|Intermediate 9-10|June 2023|
-|Advanced 1-3|September 2023|
-|Advanced 7-10|March 2024|
-|Basic 6-10|June 2024|
-|Advanced 4-6|December 2024|
+|Level|Section(s)|Estimated Update|
+|---|---|---|
+|Advanced|0|September 2022|
+|Intermediate|0|December 2022|
+|Intermediate|4-6|March 2022|
+|Intermediate|1-3|June 2022|
+|Basic|0|September 2022|
+|Basic|1-5|June 2023|
+|Intermediate|7-8|September 2023|
+|Intermediate|9-10|June 2023|
+|Advanced|1-3|September 2023|
+|Advanced|7-10|March 2024|
+|Basic|6-10|June 2024|
+|Advanced|4-6|December 2024|
