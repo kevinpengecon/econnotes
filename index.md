@@ -8,7 +8,7 @@ First and foremost, EconNotes is a work in progress that I will continually upda
 
 ### Basic Economics
 
-Economics at a basic level is catered towards both students in high school and first-year undergraduate. We shall visit the building blocks of modern economics using the magic word "rationality". You will need a preliminary understanding of algebra and graphs to master the topics but nothing beyond that. Basic economics shall contain the following sections:
+Economics at a basic level is catered towards both students in high school and first-year undergraduates. We shall visit the building blocks of modern economics using the magic word "rationality". You will need a preliminary understanding of algebra and graphs to master the topics but nothing beyond that. Basic economics shall contain the following sections:
 
 0. Mathematics for Basic Economics
 1. How Markets Work
