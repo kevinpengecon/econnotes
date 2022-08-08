@@ -45,6 +45,12 @@ Section 0 is a review on the calculus and probability theory needed for this lev
 
 ### Advanced Microeconomic Theory
 
+Economics at an advanced level is suitable for the core courses of an economics graduate program. Math skills are very important here and includes (but certainly not limited to, depending on the program) vector calculus, linear algebra, differential equations, 
+
+## How to Use the Materials Here
+
+## Terms and Conditions
+
 ## Sources and Reference
 
 The topics will follow a flow that most textbooks in economics generally follow. While I do not specifically follow a certain textbook for any of the segments, I am certainly biased by the ones I used when I was studying the corresponding courses. You may find the following textbooks useful for additional reading:
