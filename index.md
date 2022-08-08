@@ -75,9 +75,11 @@ You may also see some practice problems for each section. For these problem sets
 
 The topics will follow a flow that most textbooks in economics generally follow. While I do not specifically follow a certain textbook for any of the segments, I am certainly biased by the ones I used when I was studying the corresponding courses. You may find the following textbooks useful for additional reading:
 
-- Basic level: 
-- Intermediate level:
-- Advanced level: 
+- Basic level: [M] _Principles of Economics_, Mankiw, 8e
+- Intermediate level: [P] _Microeconomics with Calculus_, Perloff, 3e; [B] _Macroeconomics_, Blanchard, 8e
+- Advanced level: [MWG] _Microeconomic Theory_, Mas-Colell, Whinston, and Green; [V] _Microeconomic Analysis_, Varian, 2e
+
+I will also place markers on the topics regarding which chapter of a textbook it corresponds to, using the bracketed letters. Note however, that different editions may have different chapter permutations.
 
 ## A ~~Very Tentative and Ever-Changing~~ Timeline of Events
 
