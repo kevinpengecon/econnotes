@@ -24,6 +24,15 @@ Economics at a basic level is catered towards both students in high school and f
 
 Section 0 is a review on the math skills that are essential to this level of economics. Sections 1 through 5 are generally in a Basic Economics I course, which deals with the core concepts in microeconomics. Sections 6 through 10 are generally is a Basic Economics II course, which introduces students to topics in macroeconomics.
 
+### Intermediate Economics
+
+Economics at an intermediate level sees materials covered in the second year of an undergraduate economics major course, and is sometimes a required course for students in business administration. We will build on top of concepts learned at a basic level and use more analysis and rigor. Calculus becomes an important tool at this level and is generally a prerequisite to intermediate courses. Intermediate economics shall contain the following sections:
+
+0. Mathematics for Intermediate Economics
+1. 
+
+### Advanced Microeconomic Theory
+
 ## Sources and Reference
 
 The topics will follow a flow that most textbooks in economics generally follow. While I do not specifically follow a certain textbook for any of the segments, I am certainly biased by the ones I used when I was studying the corresponding courses. You may find the following textbooks useful for additional reading:
@@ -34,4 +43,9 @@ The topics will follow a flow that most textbooks in economics generally follow.
 
 ## A ~~Very Tentative and Ever-Changing~~ Timeline of Events
 
-Firstly, as a Ph.D. student, I do need to place a higher priority to my real-life academics, which includes being a TA and research. This makes estimates to how fast things here go very, very very-able (pun intended with high confidence). Secondly, as my current "bubble" swirls more around microeconomics, the corresponding portions in the basic and intermediate level will likely be included before their macroeconomic counterparts. (Well that and because modern macroeconomics is considered to be micro-based, and it would be helpful if I can link back to micro stuff if they're created beforehand.) This is also the reason why I do not plan on including the Advanced level of macroeconomic theory any time soon, as I 
+Firstly, as a Ph.D. student, I do need to place a higher priority to my real-life academics, which includes being a TA and research. This makes estimates to how fast things here go very, very very-able (pun intended with high confidence). Secondly, as my current "bubble" swirls more around microeconomics, the corresponding portions in the basic and intermediate level will likely be included before their macroeconomic counterparts. (Well that and because modern macroeconomics is considered to be micro-based, and it would be helpful if I can link back to micro stuff if they're created beforehand.) This is also the reason why I do not plan on including the advanced level of macroeconomic theory any time soon, as someone with more confidence in the topic should be in charge of that segment. Lastly, due to logistical reasons, most of Advanced Microeconomic Theory will be updated much later in the future.
+
+|Segment|Estimated Update|
+|---|---|
+|Advanced 0|September 2022|
+|Intermediate 0|December 2022|
