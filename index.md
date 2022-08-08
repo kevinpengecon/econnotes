@@ -4,8 +4,15 @@ I am Kevin Peng, currently a Ph.D. student in the Department of Economics, Unive
 
 ## What's in EconNotes
 
-First and foremost, EconNotes is a work in progress that I will continually update to include new materials. My long-run goal is for the site to contain the following three levels: Basic, Intermediate, and Advanced. Regardless of the level, I will go into more details in each topic than a typical corresponding course. Each economics class generally spans from 10 to 18 weeks, depending on the educational system and academic calandar, and instructors usually face trade-offs (hint-hint) when designing the course structure and have to either relinquish a few topics or gloss over here and there. You should (eventually) find most of what you need for an economics course on this site, and much more, should you be interested in a certain topic.
+First and foremost, EconNotes is a work in progress that I will continually update to include new materials ~~whenever I have free time~~. My long-run goal is for the site to contain the following three levels: Basic, Intermediate, and Advanced. Regardless of the level, I will go into more details in each topic than a typical corresponding course. Each economics class generally spans from 10 to 18 weeks, depending on the educational system and academic calandar, and instructors usually face trade-offs (hint-hint) when designing the course structure and have to either relinquish a few topics or gloss over here and there. You should (eventually) find most of what you need for an economics course on this site, and much more, should you be interested in a certain topic.
 
 ### Basic Economics
 
-Economics at a basic level 
+Economics at a basic level is catered towards both students in high school and first-year undergraduate. We shall visit the building blocks of modern economics using the magic word "rationality". You will need a preliminary understanding of algebra and graphs to master the topics but nothing beyond that. Basic economics shall contain the following main sections:
+
+0. Mathematics for Basic Economics
+1. Markets and How They Work
+2. What Governments Do
+3. What Firms Do
+4. What Consumers Do
+5. What Happens in the Workplace
