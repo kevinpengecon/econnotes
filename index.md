@@ -60,7 +60,14 @@ Economics at an advanced level is suitable for the core courses of an economics 
 
 ## How to Use the Materials Here
 
-The materials here serve two purposes: 1) an easy way for students to review concepts and follow through flows of logic in proofs, derivations, and calculations, as well as 2) extended learning for topics your instructor may have skipped due to insufficient course hours. However, always remember that you should still attend the class you are taking first before coming here. I must emphasize that you should not use this site as a substitute for your course materials! You may also see some practice problems for each section. For these problem sets, I shall include an answer key. Solutions are not provided as you can never un-see them. If you do not arrive at the same answer as the key, you should (likely in this order) a) try solving it again and check your steps, b) go back to the materials to check your concepts to make sure you are using the correct method, c) discuss with your peers, as mutual growth is essential in any learning environment, d) attend your TA's or instructor's office hour if the question in hand truly is part of your course (remember that not all of the contents on this site )
+The materials here serve two purposes: 1) an easy way for students to review concepts and follow through flows of logic in proofs, derivations, and calculations, as well as 2) extended learning for topics your instructor may have skipped due to insufficient course hours. However, always remember that you should still attend the class you are taking first before coming here. I must emphasize that you should not use this site as a substitute for your course materials!
+
+You may also see some practice problems for each section. For these problem sets, I shall include an answer key. Solutions are not provided as you can never un-see them. If you do not arrive at the same answer as the key, you should (likely in this order):
+1. try solving it again and check your steps
+2. go back to the materials to check your concepts to make sure you are using the correct method
+3. discuss with your peers, as mutual growth is essential in any learning environment
+4. attend your TA's or instructor's office hour if the question at hand truly is part of your course (remember that not all of the contents on this site would be covered in your class)
+5. email me if you think I might have made a mistake (note: I will only be able to confirm whether the key is correct or not, or if I made a typo in the setup for a problem. I will not send out full solutions to the problem.)
 
 ## Terms and Conditions
 
