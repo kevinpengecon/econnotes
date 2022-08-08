@@ -22,9 +22,16 @@ Economics at a basic level is catered towards both students in high school and f
 9. What Happens When Economies Interact
 10. What Happens in the Short Run
 
+Section 0 is a review on the math skills that are essential to this level of economics. Sections 1 through 5 are generally in a Basic Economics I course, which deals with the core concepts in microeconomics. Sections 6 through 10 are generally is a Basic Economics II course, which introduces students to topics in macroeconomics.
 
-## Sources
+## Sources and Reference
 
 The topics will follow a flow that most textbooks in economics generally follow. While I do not specifically follow a certain textbook for any of the segments, I am certainly biased by the ones I used when I was studying the corresponding courses. You may find the following textbooks useful for additional reading:
 
 - Basic level: 
+- Intermediate level:
+- Advanced level: 
+
+## A ~~Very Tentative and Ever-Changing~~ Timeline of Events
+
+Firstly, as a Ph.D. student, I do need to place a higher priority to my real-life academics, which includes being a TA and research. This makes estimates to how fast things here go very, very very-able (pun intended with high confidence). Secondly, as my current "bubble" swirls more around microeconomics, the corresponding portions in the basic and intermediate level will likely be included before their macroeconomic counterparts. (Well that and because modern macroeconomics is considered to be micro-based, and it would be helpful if I can link back to micro stuff if they're created beforehand.) This is also the reason why I do not plan on including the Advanced level of macroeconomic theory any time soon, as I 
