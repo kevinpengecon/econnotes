@@ -29,7 +29,19 @@ Section 0 is a review on the math skills that are essential to this level of eco
 Economics at an intermediate level sees materials covered in the second year of an undergraduate economics major course, and is sometimes a required course for students in business administration. We will build on top of concepts learned at a basic level and use more analysis and rigor. Calculus becomes an important tool at this level and is generally a prerequisite to intermediate courses. Intermediate economics shall contain the following sections:
 
 0. Mathematics for Intermediate Economics
-1. 
+1. Consumer Theory and Welfare
+2. Producer Theory and Costs
+3. General Equilibirum and Choice Under Uncertainty
+4. Industrial Organization and Game Theory
+5. Economics of the Public Sector
+6. Deviations from Perfect Information
+7. Macroeconomics in th Short Run
+8. Macroeconomics in the Medium Run
+9. Macroeconomics in the Long Run
+10. Expectations
+11. The Open Economy
+
+Section 0 is a review on the calculus and probability theory needed for this level of economics. It also contains an introduction to two important tools in economics: comparative statics and optimization. Sections 1 through 6 are topics covered in Intermediate Microeconomics. Sections 7 through 11 are introduced in Intermediate Macroeconomics. Due to time constrainsts, many instructors will need to pick-and-choose which topics to focus on, but generally, most will put emphasis on at least sections 1-4 and 7-9.
 
 ### Advanced Microeconomic Theory
 
