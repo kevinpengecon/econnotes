@@ -33,19 +33,30 @@ Economics at an intermediate level sees materials covered in the second year of 
 2. Producer Theory and Costs
 3. General Equilibirum and Choice Under Uncertainty
 4. Industrial Organization and Game Theory
-5. Economics of the Public Sector
-6. Deviations from Perfect Information
-7. Macroeconomics in th Short Run
-8. Macroeconomics in the Medium Run
-9. Macroeconomics in the Long Run
-10. Expectations
-11. The Open Economy
+5. Public Economics and Deviations from Perfect Information
+6. Macroeconomics in th Short Run
+7. Macroeconomics in the Medium Run
+8. Macroeconomics in the Long Run
+9. Expectations
+10. The Open Economy
 
-Section 0 is a review on the calculus and probability theory needed for this level of economics. It also contains an introduction to two important tools in economics: comparative statics and optimization. Sections 1 through 6 are topics covered in Intermediate Microeconomics. Sections 7 through 11 are introduced in Intermediate Macroeconomics. Due to time constrainsts, many instructors will need to pick-and-choose which topics to focus on, but generally, most will put emphasis on at least sections 1-4 and 7-9.
+Section 0 is a review on the calculus and probability theory needed for this level of economics. It also contains an introduction to two important tools in economics: comparative statics and optimization. Sections 1 through 5 are topics covered in Intermediate Microeconomics. Sections 6 through 10 are introduced in Intermediate Macroeconomics. Due to time constrainsts, many instructors will need to pick-and-choose which topics to focus on, but generally, most will put emphasis on at least sections 1-4 and 6-8.
 
 ### Advanced Microeconomic Theory
 
-Economics at an advanced level is suitable for the core courses of an economics graduate program. Math skills are very important here and includes (but certainly not limited to, depending on the program) vector calculus, linear algebra, differential equations, 
+Economics at an advanced level is suitable for the core courses of an economics graduate program. Math skills are very important here and includes (but certainly not limited to, depending on the program) vector calculus, linear algebra, differential equations, and real analysis (a review shall be contained in section 0). Currently, only the microeonomic segment is planned, with the following sections:
+
+0. Mathematics for Advanced Economics
+1. Neoclassical Producer and Consumer Theory
+2. Choice Under Uncertainty
+3. General Equilibirum
+4. Concepts of Game Theory
+5. Adverse Selection
+6. Moral Hazard
+7. Classical Abstract Choice Theory
+8. Mechanism Design and Auctions
+9. General Mechanisms and Voting
+10. Assignment and Matching
 
 ## How to Use the Materials Here
 
