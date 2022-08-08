@@ -78,13 +78,13 @@ Firstly, as a Ph.D. student, I do need to place a higher priority to my real-lif
 |---|---|---|
 |Advanced|0|September 2022|
 |Intermediate|0|December 2022|
-|Intermediate|4-6|March 2022|
-|Intermediate|1-3|June 2022|
-|Basic|0|September 2022|
-|Basic|1-5|June 2023|
-|Intermediate|7-8|September 2023|
-|Intermediate|9-10|June 2023|
-|Advanced|1-3|September 2023|
-|Advanced|7-10|March 2024|
-|Basic|6-10|June 2024|
-|Advanced|4-6|December 2024|
+|Intermediate|4-6|March 2023|
+|Intermediate|1-3|June 2023|
+|Basic|0|September 2023|
+|Basic|1-5|December 2023|
+|Intermediate|7-8|March 2024|
+|Intermediate|9-10|June 2024|
+|Advanced|1-3|September 2024|
+|Basic|6-10|December 2024|
+|Advanced|7-10|March 2025|
+|Advanced|4-6|December 2025|
