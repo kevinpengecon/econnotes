@@ -22,7 +22,7 @@ Economics at a basic level is catered towards both students in high school and f
 9. What Happens When Economies Interact
 10. What Happens in the Short Run
 
-Section 0 is a review on the math skills that are essential to this level of economics. Sections 1 through 5 are generally in a Basic Economics I course, which deals with the core concepts in microeconomics. Sections 6 through 10 are generally is a Basic Economics II course, which introduces students to topics in macroeconomics.
+Section 0 is a review on the math skills that are essential to this level of economics. Sections 1 through 5 are generally in a Basic Economics I course, which deals with the core concepts in microeconomics. Sections 6 through 10 are generally in a Basic Economics II course, which introduces students to topics in macroeconomics.
 
 ### Intermediate Economics
 
