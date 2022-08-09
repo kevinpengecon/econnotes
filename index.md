@@ -86,6 +86,10 @@ The collection of and any GitHub Page along with its assets (such as images) tha
    - Any of such of such use will have proper citations to me and this very Page.
    - You do not claim to own or have produced any of the contents in any way, shape, or form.
    - Any of such copy cannot monetarily benefit anyone in excess of the materials and labor required to create and/or access a copy, such as printing costs.
+   - You do not make any alterations to my content while claiming that such an alteration is made by me.
+4. Any violation of these terms and contiditions can and will result in legal action taken against the violator, depending on severity and appropriate copyright laws.
+
+In other words, do not say that you created any part of the materials you find in this repository and do not distribute copies without notifying (and receiving the green light from) me first.
 
 ## Sources and Reference
 
