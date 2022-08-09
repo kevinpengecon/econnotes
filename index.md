@@ -1,6 +1,6 @@
 ## Welcome to EconNotes
 
-I am Kevin Peng, currently a Ph.D. student in the Department of Economics, University of California, Irvine. The inspiration for me to make this GitHub Pages is two-fold, one from my Macroeconomic Theory II professor Dr. William Branch, who used a similar approach during his lecture in the height of the coronavirus era. Equally motivational is ["Paul's Online Notes"](https://tutorial.math.lamar.edu), created by Dr. Paul Dawkins from Lamar University, which includes many helpful notes and tutorials on common university-level math courses.
+I am Kevin Peng, currently a Ph.D. student in the Department of Economics at the University of California, Irvine. The inspiration for me to make this GitHub Pages is two-fold, one from my Macroeconomic Theory II professor Dr. William Branch, who used a similar approach during his lecture in the height of the coronavirus era. Equally motivational is ["Paul's Online Notes"](https://tutorial.math.lamar.edu), created by Dr. Paul Dawkins from Lamar University, which includes many helpful notes and tutorials on common university-level math courses.
 
 ## What's in EconNotes
 
@@ -70,6 +70,15 @@ You may also see some practice problems for each section. For these problem sets
 5. email me if you think I might have made a mistake (note: I will only be able to confirm whether the key is correct or not, or if I made a typo in the setup for a problem. I will not send out full solutions to the problem.)
 
 ## Terms and Conditions
+
+The collection of and any GitHub Page along with its assets (such as images) that falls in the repository kevinpengecon/econnotes are referred to below as "this repository". The "you", "your" refers to any individual with access to these materials. The "I", "me", "my" refers to Kevin Peng (legally Kuang-Yu Peng). By visiting any Page in this repository, you agree to the following terms and conditions.
+
+1. You are welcome to use, print, allocate, distribute materials found within this repository given the following collective conditions:
+   - It is used in a personal or educational setting.
+   - You do not claim to own or have produced any of the contents.
+   - Any of such copy (no modifications) can be easily linked back to me or this very Page.
+   - Any of use with alteration (such as, but not limited to, in an essay or report) will have proper citations to me and this very Page.
+   - Any of such copy cannot monetarily benefit anyone in excess of the materials and labor required to create a copy, such as printing costs.
 
 ## Sources and Reference
 
