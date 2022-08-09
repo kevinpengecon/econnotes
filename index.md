@@ -71,7 +71,7 @@ You may also see some practice problems for each section. For these problem sets
 
 ## Terms and Conditions
 
-The collection of and any GitHub Page along with its assets (such as images) that falls in the repository kevinpengecon/econnotes are referred to below as "this repository". The "you", "your" refer to any individual with access to these materials. The "I", "me", "my" refer to Kevin Peng (legally Kuang-Yu Peng). By visiting any Page in this repository, you agree to the following terms and conditions.
+The collection of and any GitHub Page along with its assets (such as images) that falls in the GitHub repository kevinpengecon/econnotes are referred to below as "this repository". The "you", "your" refer to any individual with access to these materials. The "I", "me", "my" refer to Kevin Peng (legally Kuang-Yu Peng). By visiting any Page in this repository, you agree to the following terms and conditions.
 
 1. Unless otherwise stated (which I shall link to a bibliography page where appropriate), any element found in this repository is considered my intellectual property.
 2. You are welcome to use or print all or parts of the materials found within this repository given the following collective conditions:
