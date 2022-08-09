@@ -70,26 +70,7 @@ You may also see some practice problems for each section. For these problem sets
 5. email me if you think I might have made a mistake (note: I will only be able to confirm whether the key is correct or not, or if I made a typo in the setup for a problem. I will not send out full solutions to the problem.)
 
 ## Terms and Conditions
-
-The collection of and any GitHub Page along with its assets (such as images) that falls in the GitHub repository kevinpengecon/econnotes are referred to below as "this repository". The "you", "your" refer to any individual with access to these materials. The "I", "me", "my" refer to Kevin Peng (legally Kuang-Yu Peng). By visiting any Page in this repository, you agree to the following terms and conditions.
-
-1. Unless otherwise stated (which I shall link to a bibliography page where appropriate), any element found in this repository is considered my intellectual property.
-2. You are welcome to use or print all or parts of the materials found within this repository given the following collective conditions:
-   - It is used in a personal and private setting only.
-   - Any of such copy can be easily linked back to me or this very Page.
-   - You do not distribute or allocate any (part of a) copy that you make.
-   - You may share the link to any Page in this repository to others as long as no content in this repository is actively embedded to (including but not limited to) your website, or an email you send.
-3. You are welcome to cite, supplement, distribute, allocate all or parts of the materials found within this repository given the following collective conditions:
-   - It is used in an educational setting only.
-   - You properly notify me beforehand of such usage (and a brief explanation of how you plan on using it) via email (provided here) and you receive a response from me stating my consent.
-   - All contents in the Terms and Conditions section of this Page is included in any copy you make.
-   - Any of such of such use will have proper citations to me and this very Page.
-   - You do not claim to own or have produced any of the contents in any way, shape, or form.
-   - Any of such copy cannot monetarily benefit anyone in excess of the materials and labor required to create and/or access a copy, such as printing costs.
-   - You do not make any alterations to my content while claiming that such an alteration is made by me.
-4. Any violation of these terms and contiditions can and will result in legal action taken against the violator, depending on severity and appropriate copyright laws.
-
-In other words, do not say that you created any part of the materials you find in this repository and do not distribute copies without notifying (and receiving the green light from) me first.
+_To be added_
 
 ## Sources and Reference
 
