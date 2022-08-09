@@ -82,7 +82,7 @@ The collection of and any GitHub Page along with its assets (such as images) tha
 3. You are welcome to cite, supplement, distribute, allocate all or parts of the materials found within this repository given the following collective conditions:
    - It is used in an educational setting only.
    - You properly notify me beforehand of such usage (and a brief explanation of how you plan on using it) via email (provided here) and you receive a response from me stating my consent.
-   - All contents in the Terms and Conditions section of this Page is included in any copy or alteration of a copy you make.
+   - All contents in the Terms and Conditions section of this Page is included in any copy you make.
    - Any of such of such use will have proper citations to me and this very Page.
    - You do not claim to own or have produced any of the contents in any way, shape, or form.
    - Any of such copy cannot monetarily benefit anyone in excess of the materials and labor required to create and/or access a copy, such as printing costs.
