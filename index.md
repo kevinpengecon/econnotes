@@ -73,11 +73,12 @@ You may also see some practice problems for each section. For these problem sets
 
 The collection of and any GitHub Page along with its assets (such as images) that falls in the repository kevinpengecon/econnotes are referred to below as "this repository". The "you", "your" refers to any individual with access to these materials. The "I", "me", "my" refers to Kevin Peng (legally Kuang-Yu Peng). By visiting any Page in this repository, you agree to the following terms and conditions.
 
-1. You are welcome to use, print, allocate, distribute materials found within this repository given the following collective conditions:
-   - It is used in a personal or educational setting.
-   - You do not claim to own or have produced any of the contents.
+1. Unless otherwise stated (which I shall link to a bibliography page where appropriate), any element found in this repository 
+2. You are welcome to use, print, allocate, distribute all or parts of the materials found within this repository given the following collective conditions:
+   - It is used in a personal or educational setting only.
+   - You do not claim to own or have produced any of the contents in any way, shape, or form.
    - Any of such copy (no modifications) can be easily linked back to me or this very Page.
-   - Any of use with alteration (such as, but not limited to, in an essay or report) will have proper citations to me and this very Page.
+   - Any of such use with alteration (such as, but not limited to, quoting in an essay or report) will have proper citations to me and this very Page.
    - Any of such copy cannot monetarily benefit anyone in excess of the materials and labor required to create a copy, such as printing costs.
 
 ## Sources and Reference
